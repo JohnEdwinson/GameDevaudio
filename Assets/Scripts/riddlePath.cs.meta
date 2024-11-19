@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2e697123b6eab9244a3d0726d3021106
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sentenceText: {instanceID: 0}
+  - riddleText: {instanceID: 0}
+  - startButton: {instanceID: 0}
+  - menuGameObject: {instanceID: 0}
+  - riddleLoadingGameObject: {instanceID: 0}
+  - riddleGameObject: {instanceID: 0}
+  - Audio: {fileID: 7891057505291704096, guid: 779d6fa7f8a175e4da0fea8d4d43d261, type: 3}
+  - wisdomMusic: {fileID: 8300000, guid: 729e3fcde247718469e81d167f19590a, type: 3}
+  - warMusic: {fileID: 8300000, guid: 7faf58696bda0c449a17ca7940c61b33, type: 3}
+  - wealthMusic: {fileID: 8300000, guid: 729e3fcde247718469e81d167f19590a, type: 3}
+  - solvedWisdomClip: {fileID: 8300000, guid: 3f2e495abb614bf4d91b368fc72834e3, type: 3}
+  - solvedWarClip: {fileID: 8300000, guid: 6fda0af500faf7446b6a146410453032, type: 3}
+  - solvedWealthClip: {fileID: 8300000, guid: 3a4bc9b66eff1a1459f9aa2ae6f7fc39, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
